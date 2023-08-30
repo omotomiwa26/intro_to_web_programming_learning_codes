@@ -1,4 +1,4 @@
-EMOTE_REPO = origin
+REMOTE_REPO = origin
 BRANCH = main
 message = my updates
 .PHONY: push
