@@ -1,4 +1,4 @@
-# Repo For intro_to_programming_codes
+# Repo For intro to web programming codes
 
 - HTML
 - CSS
